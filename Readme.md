@@ -20,7 +20,7 @@ Les données saisies vocalement sont validées pour s'assurer de leur exactitude
 Une fois que les informations ont été saisies vocalement et validées, elles sont enregistrées dans une base de données PostgreSQL. Les informations incluent un identifiant unique, le nom, le prénom, l'e-mail, l'âge, le numéro de téléphone, le consentement et le numéro de sécurité sociale.
 
 # Affichage des Informations :
-Les informations enregistrées peuvent être affichées dans l'interface pour permettre aux utilisateurs de vérifier les données enregistrées.
+Les informations enregistrées vont être affichées dans l'interface pour permettre aux utilisateurs de vérifier les données enregistrées.
 
 # Gestion des Utilisateurs (Admin) : 
 Les administrateurs ont la possibilité de visualiser toutes les informations enregistrées par les utilisateurs. Cela peut être utile pour le suivi des patients.
